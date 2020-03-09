@@ -1,0 +1,9 @@
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Business.Model\bin\Debug\netcoreapp2.1\AngularBlog.Business.Model.deps.json
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Business.Model\bin\Debug\netcoreapp2.1\AngularBlog.Business.Model.dll
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Business.Model\obj\Debug\netcoreapp2.1\AngularBlog.Business.Model.csprojAssemblyReference.cache
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Business.Model\obj\Debug\netcoreapp2.1\AngularBlog.Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Business.Model\obj\Debug\netcoreapp2.1\AngularBlog.Business.Model.AssemblyInfoInputs.cache
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Business.Model\obj\Debug\netcoreapp2.1\AngularBlog.Business.Model.AssemblyInfo.cs
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Business.Model\bin\Debug\netcoreapp2.1\AngularBlog.Business.Model.pdb
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Business.Model\obj\Debug\netcoreapp2.1\AngularBlog.Business.Model.dll
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Business.Model\obj\Debug\netcoreapp2.1\AngularBlog.Business.Model.pdb

@@ -1,0 +1,11 @@
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\bin\Debug\netcoreapp2.1\AngularBlog.Data.Model.deps.json
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\bin\Debug\netcoreapp2.1\AngularBlog.Data.Model.dll
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\obj\Debug\netcoreapp2.1\AngularBlog.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\obj\Debug\netcoreapp2.1\AngularBlog.Data.Model.AssemblyInfoInputs.cache
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\obj\Debug\netcoreapp2.1\AngularBlog.Data.Model.AssemblyInfo.cs
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\bin\Debug\netcoreapp2.1\AngularBlog.Data.Model.pdb
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\obj\Debug\netcoreapp2.1\AngularBlog.Data.Model.dll
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\obj\Debug\netcoreapp2.1\AngularBlog.Data.Model.pdb
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\obj\Debug\netcoreapp2.1\AngularBlog.Data.Model.csprojAssemblyReference.cache
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\bin\Debug\netcoreapp2.1\AngularBlog.Data.Model.runtimeconfig.json
+C:\Users\otoz\Desktop\AngularBackEnd\AngularBlogBackEnd\AngularBlog.Data.Model\bin\Debug\netcoreapp2.1\AngularBlog.Data.Model.runtimeconfig.dev.json

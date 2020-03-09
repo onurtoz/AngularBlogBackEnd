@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AngularBlog.Business.Model\AngularBlog.Business.Model.csproj" />
+    <ProjectReference Include="..\AngularBlog.Data.Model\AngularBlog.Data.Model.csproj" />
+    <ProjectReference Include="..\AngularBlogData.Repository\AngularBlogData.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
